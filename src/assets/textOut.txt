@@ -1,0 +1,6 @@
+This is a text file. Let's see if my tutorial program
+can read from it and spit it back out to the output text file.
+Line 3
+Line 4
+Line 5
+etc...
